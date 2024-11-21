@@ -1,19 +1,41 @@
 {
-    "DeckName": "Example Set",
+    "DeckName": "Main Set",
 
-    "DeckBy": "Lastation Community",
+    "DeckBy": "r/VRChatERP Community",
 
     "Truths": [
-        "What is your favorite VRC game Map?",
-        "What is your opinion of <player>?",
-        "Do you know more than <range[1-5]> people here?",
-        "Tell <player> <range[1-10]> facts about youself.",
-        "<local>, who do you like here the most?"
+        "Would you ever consider fucking a clown?",
+        "Who in this room would you want to fuck the most?",
+        "What was your lewdest VRchat experience?",
+        "What is a dare that you want to do but would be embarrassing?",
+        "What is the weirdest porn video you got off to?",
+        "What is the last thing you searched for to get off?",
+        "What was your gay awakening?",
+        "What is your strangest kink?",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
     ],
     "Dares": [
-        "Mute yourself until next turn.",
-        "Sit next to <player>.",
-        "Eat <range[1-10]> goldfish.",
-        "Let <player> slap you <range[1-5]> times."
+        "Give a lapdance to or grind on <player> for at least 10 seconds.",
+        "Find someone who has Phantom sense and touch them until they give you a reaction.",
+        "Sit on <player>'s lap.",
+        "Choose a dare instead.",
+        "Change your VRChat or Discord Status to Down to Fuck.",
+        "Do not say or do anything lewd until your next turn.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
     ]
 }
+
+ <player> <range[1-10]> <local> This line will not work and is used as an example
